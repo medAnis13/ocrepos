@@ -1,1 +1,2 @@
 Ceci est la premiére classe qui fait appel aux differentes variables.
+Cette fonction posséde de nouvelles variables.
