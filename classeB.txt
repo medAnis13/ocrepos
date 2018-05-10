@@ -1,1 +1,3 @@
 Ceci est une classe qu'on appelle lors de la mise à jour.
+if (update)
+{log("update ok");}
